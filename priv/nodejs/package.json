@@ -1,0 +1,15 @@
+{
+  "name": "node-service",
+  "version": "1.0.0",
+  "description": "Node Service",
+  "main": "index.js",
+  "scripts": {
+    "parseExcel": "node parseExcel.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "0.0.2",
+    "node-xlsx": "0.12.0"
+  }
+}
